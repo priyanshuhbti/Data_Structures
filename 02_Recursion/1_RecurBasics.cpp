@@ -5,6 +5,7 @@ void fun(int n){
 
     if(n>0)
     {
+        //We can also consider the fun(n-1) at the front , not considering on the back as well .
         cout<<n<<" ";
         fun(n-1);
 
