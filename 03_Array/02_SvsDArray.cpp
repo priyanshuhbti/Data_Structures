@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 //Static Array vs Dynamic Array 
-
+//Just mug it up : Because we will Vector in replacement of this array ..
 int main() {
     int A[5] = {2, 4, 6, 8, 10};
     int *p;
